@@ -1,8 +1,8 @@
 {
-  "name": "asta-botto",
-  "description": "Simple WhatsApp Botto.",
-  "logo": "https://i.imgur.com/JMsAFRD.jpeg",
-  "keywords": "Asta",
+  "name": "abro-bot",
+  "description": "Simple WhatsApp bot.",
+  "logo": "https://i.imgur.com/7doiWDc.jpeg",
+  "keywords": "Abro",
   "success_url": "/astro/",
   "app_url": "/qr/",
   "stack": "container",
@@ -10,7 +10,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "Astro",
+      "value": "Abro",
       "required": true
     },
 
@@ -28,7 +28,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "ᴀsᴛᴀ-ᴍᴅ"
+      "value": "ABRO-MD"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -96,7 +96,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2348039607375"
+      "value": "2348100151048"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -123,7 +123,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Asta Md",
+      "value": "Abro Md",
       "required": false
     },
     "PACK_AUTHER": {
