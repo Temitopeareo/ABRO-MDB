@@ -1,8 +1,8 @@
 services:
 - type: web
-  name: Asta-Md
+  name: Abro-Md
   runtime: node
-  repo: https://github.com/Astropeda/Asta-Md
+  repo: https://github.com/Temitopeareo/ABRO-MDB
   plan: free
   region: oregon
   buildCommand: npm install
