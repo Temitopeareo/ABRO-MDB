@@ -66,7 +66,7 @@ module.exports = {
 
   HANDLERS: process.env.PREFIX  || "/",
   BRANCH  : process.env.BRANCH  || "main",
-  VERSION : process.env.VERSION || "3.0.0",
+  VERSION : process.env.VERSION || "1.0.0",
   caption : global.caption || "ABRO-MD 2024" , 
  
   author : process.env.PACK_AUTHER|| "ABRO",
